@@ -1,1 +1,1 @@
-testreadme
+console.info('sucess');
